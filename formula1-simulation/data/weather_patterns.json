@@ -1,0 +1,46 @@
+{
+  "weather_patterns": [
+    {
+      "pattern": "Sunny",
+      "temperature": 30,
+      "humidity": 40,
+      "precipitation": 0,
+      "wind_speed": 5
+    },
+    {
+      "pattern": "Cloudy",
+      "temperature": 25,
+      "humidity": 60,
+      "precipitation": 0,
+      "wind_speed": 3
+    },
+    {
+      "pattern": "Rain",
+      "temperature": 20,
+      "humidity": 80,
+      "precipitation": 10,
+      "wind_speed": 10
+    },
+    {
+      "pattern": "Thunderstorm",
+      "temperature": 22,
+      "humidity": 90,
+      "precipitation": 20,
+      "wind_speed": 15
+    },
+    {
+      "pattern": "Fog",
+      "temperature": 18,
+      "humidity": 100,
+      "precipitation": 0,
+      "wind_speed": 2
+    },
+    {
+      "pattern": "Snow",
+      "temperature": -5,
+      "humidity": 70,
+      "precipitation": 15,
+      "wind_speed": 8
+    }
+  ]
+}
