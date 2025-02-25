@@ -1,0 +1,84 @@
+{
+  "teams": [
+    {
+      "name": "Red Phoenix Racing",
+      "performance": {
+        "aerodynamics": 95,
+        "power_unit": 90,
+        "mechanical_reliability": 85
+      }
+    },
+    {
+      "name": "Blue Thunder Motorsports",
+      "performance": {
+        "aerodynamics": 88,
+        "power_unit": 92,
+        "mechanical_reliability": 80
+      }
+    },
+    {
+      "name": "Green Lightning Team",
+      "performance": {
+        "aerodynamics": 90,
+        "power_unit": 85,
+        "mechanical_reliability": 88
+      }
+    },
+    {
+      "name": "Yellow Star Racing",
+      "performance": {
+        "aerodynamics": 87,
+        "power_unit": 89,
+        "mechanical_reliability": 82
+      }
+    },
+    {
+      "name": "Black Panther Racing",
+      "performance": {
+        "aerodynamics": 92,
+        "power_unit": 91,
+        "mechanical_reliability": 84
+      }
+    },
+    {
+      "name": "Silver Arrow Motors",
+      "performance": {
+        "aerodynamics": 93,
+        "power_unit": 94,
+        "mechanical_reliability": 86
+      }
+    },
+    {
+      "name": "Orange Blaze Racing",
+      "performance": {
+        "aerodynamics": 89,
+        "power_unit": 87,
+        "mechanical_reliability": 83
+      }
+    },
+    {
+      "name": "White Eagle Racing",
+      "performance": {
+        "aerodynamics": 91,
+        "power_unit": 90,
+        "mechanical_reliability": 85
+      }
+    },
+    {
+      "name": "Purple Wave Team",
+      "performance": {
+        "aerodynamics": 86,
+        "power_unit": 88,
+        "mechanical_reliability": 81
+      }
+    },
+    {
+      "name": "Gold Falcon Racing",
+      "performance": {
+        "aerodynamics": 94,
+        "power_unit": 93,
+        "mechanical_reliability": 87
+      }
+    }
+  ]
+}
